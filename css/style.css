@@ -69,6 +69,11 @@ html {
       text-align: center;
   }
   
+  .titles {
+    flex-direction: column;
+    align-items: center;
+  }
+  
   .headder-title {
     margin-left: -15px;
     margin-right: -15px;
@@ -79,7 +84,6 @@ html {
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
 }
-
 
 .headder-subtitle {
     font-size: 18px;
